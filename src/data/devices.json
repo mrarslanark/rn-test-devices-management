@@ -1,0 +1,42 @@
+[
+  {
+    "id": "288db069-6051-4e05-820f-1e801dac8649",
+    "make": "Samsung",
+    "model": "Galaxy S10 5G",
+    "os": "Android",
+    "owner": "John Doe",
+    "notes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "196f0405-bffd-4973-b489-634e1e386864",
+    "make": "Apple",
+    "model": "iPhone 13",
+    "os": "iOS",
+    "owner": "Marry Pillar",
+    "notes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "fa2b2628-42c5-41a6-806a-36d9e50c7965",
+    "make": "Huawei",
+    "model": "P50 Pro",
+    "os": "HarmonyOS",
+    "owner": "Kien Pollard",
+    "notes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "ae8ddb8f-9959-4a46-95d3-4e698c5e86e5",
+    "make": "Xiaomi",
+    "model": "Mi 10",
+    "os": "MIUI 13",
+    "owner": "Jiya Perez",
+    "notes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": "bec25cd4-7ed6-4259-af63-cb8b2e2dc211",
+    "make": "Apple",
+    "model": "iPhone X",
+    "os": "iOS",
+    "owner": "Roman Macias",
+    "notes": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  }
+]
